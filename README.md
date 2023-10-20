@@ -1,4 +1,4 @@
-# International_Space_Station_Overhead_Notifier
+# International Space Station Overhead Notifier
 
 This Python script is designed to notify you when the International Space Station (ISS) is passing overhead and it's nighttime at your location. 
 It does so by making use of two APIs, one to track the ISS's position and the other to determine the sunrise and sunset times at your specified coordinates.
