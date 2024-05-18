@@ -47,5 +47,4 @@ sensitive information.
 
 Happy stargazing!
 
-'''css
-This README provides an overview of the project, explains its features, lists prerequisites and setup instructions, and offers a brief note about security considerations. You can customize it further to add any additional details or instructions as needed for your project.
+'''
