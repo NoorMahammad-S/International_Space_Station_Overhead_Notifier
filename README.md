@@ -46,7 +46,3 @@ This project is licensed under the MIT License. Feel free to use and modify it f
 
 ## Note: Be cautious about storing your email password in plain text in the script. It's recommended to use environment variables or a more secure method for storing
 sensitive information.
-
-Happy stargazing!
-
-'''
